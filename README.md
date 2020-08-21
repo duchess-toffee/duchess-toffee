@@ -9,19 +9,18 @@
   <a href="#"><img src="https://api.iconify.design/simple-icons:jest.svg?width=38&height=38"/></a>
 </p>
 
-<br/>
+<br/><br/>
  
 <h3 align="center"><b>I'm a Frontend Web Developer.</b></p>
  
-<br/>
+<br/><br/>
 
 <h4 align="center">Recent Projects:</p>
 <p align="center">
   <a href="https://moreeyesplz.com">👀 More Eyes, Plz!</a> : A simple way to crowdsource feedback on your GitHub commits
 </p>
 
-<br/>
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/feed/"><img src="https://img.icons8.com/windows/32/000000/linkedin-2.png"/></a>
