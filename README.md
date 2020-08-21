@@ -1,25 +1,26 @@
-# Hannah Ong | duchess-toffee 👋
+<h1 align="center"><img src="https://tenor.com/TS3c.gif"/> Hannah Ong | duchess-toffee </h1>
 
-I've recently took a leap of faith to pursure a career in programming.
+<p align="center">
+  <img src="https://img.icons8.com/windows/50/000000/html-5.png"/>
+  <img src="https://img.icons8.com/ios/50/000000/css3.png"/>
+  <img src="https://img.icons8.com/windows/50/000000/js-squared.png"/>
+  <img src="https://img.icons8.com/small/50/000000/react.png"/>
+  <img src="https://img.icons8.com/windows/50/000000/typescript.png"/>
+  <img src="https://api.iconify.design/simple-icons:jest.svg?width=38&height=38"/>
+ </p>
+ 
+<br/>
+<br/>
+
+<h2 align="center"> 🚀 Recent Projects:</h2>
+<p align="center">
+  [More Eyes, Plz!](moreeyesplz.com) : A simple way to crowdsource feedback on your GitHub commits
+</p>
 
 <br/>
 
-## 🔭 I’m currently working on:
-  - [More Eyes, Plz!](moreeyesplz.com) : A site that takes your GitHub commits, and allows you to crowdsource for feedback
-  - longspeak : A hangboard project
-  - My portfolio website : coming soon
-
-<br/>
-
-## 🌱 I’m currently learning:
-  - ReactJS
-  - TypeScript
-  - Jest
-  - Vim
-
-<br/>
-
-## Find me on:
-  - [LinkedIn](https://www.linkedin.com/in/hannah-ong/)
-  - [Dev.to](https://dev.to/duchesstoffee)
-  - [Twitter](https://twitter.com/duchess_toffee)
+<p align="center">
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.icons8.com/ios-filled/25/000000/linkedin-2.png"/></a>
+  <a href="https://dev.to/duchesstoffee"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="https://twitter.com/duchess_toffee"><img src="https://img.icons8.com/windows/32/000000/twitter-squared--v2.png"/></a>
+ </p>
