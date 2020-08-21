@@ -11,7 +11,7 @@
 
 <br/><br/>
  
-<h3 align="center"><b>I'm a Frontend Web Developer.</b></p>
+<h3 align="center"><b>✨I'm a Frontend Web Developer.✨</b></p>
  
 <br/><br/>
 
