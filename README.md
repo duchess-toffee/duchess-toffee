@@ -1,4 +1,4 @@
-<h1 align="center"> Hannah Ong | duchess-toffee </h1>
+<h1 align="center"><a href="#"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50"></a> Hannah Ong | duchess-toffee </h1>
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/windows/50/000000/html-5.png"/></a>
