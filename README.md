@@ -7,11 +7,15 @@
   <a href="#"><img src="https://img.icons8.com/small/50/000000/react.png"/></a>
   <a href="#"><img src="https://img.icons8.com/windows/50/000000/typescript.png"/></a>
   <a href="#"><img src="https://api.iconify.design/simple-icons:jest.svg?width=38&height=38"/></a>
- </p>
+</p>
+
+<br/>
+ 
+<h3 align="center">I'm a Frontend Web Developer.</p>
  
 <br/>
 
-<h3 align="center">Recent Projects:</h3>
+<h4 align="center">Recent Projects:</p>
 <p align="center">
   <a href="https://moreeyesplz.com">👀 More Eyes, Plz!</a> : A simple way to crowdsource feedback on your GitHub commits
 </p>
@@ -20,7 +24,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.icons8.com/ios-filled/25/000000/linkedin-2.png"/></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.icons8.com/windows/32/000000/linkedin-2.png"/></a>
   <a href="https://dev.to/duchesstoffee"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
   <a href="https://twitter.com/duchess_toffee"><img src="https://img.icons8.com/windows/32/000000/twitter-squared--v2.png"/></a>
  </p>
