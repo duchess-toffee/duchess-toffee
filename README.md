@@ -23,7 +23,7 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/feed/"><img src="https://img.icons8.com/windows/32/000000/linkedin-2.png"/></a>
+  <a href="https://www.linkedin.com/in/hannah-ong/"><img src="https://img.icons8.com/windows/32/000000/linkedin-2.png"/></a>
   <a href="https://dev.to/duchesstoffee"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
   <a href="https://twitter.com/duchess_toffee"><img src="https://img.icons8.com/windows/32/000000/twitter-squared--v2.png"/></a>
  </p>
