@@ -20,7 +20,7 @@
   <a href="https://moreeyesplz.com">👀 More Eyes, Plz!</a> : A simple way to crowdsource feedback on your GitHub commits
 </p>
 <p align="center">
-  <a href="https://github.com/duchess-toffee/squidy">👀 Squidy!</a> : A Google Calendar add-on that lets you record, save, and email personal event notes.
+  <a href="https://github.com/duchess-toffee/squidy">🦑 Squidy!</a> : A Google Calendar add-on that lets you record, save, and email personal event notes.
 </p>
 
 <br/><br/>
