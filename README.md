@@ -1,4 +1,4 @@
-<h1 align="center"><a href="#"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50"></a> Hannah Ong | duchess-toffee </h1>
+<h1 align="center"><a href="https://hannahong.dev/"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50"></a> <a href="https://hannahong.dev/" style="color:black;">Hannah Ong | duchess-toffee </a> </h1>
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/windows/50/000000/html-5.png"/></a>
@@ -26,7 +26,8 @@
 <br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hannah-ong/"><img src="https://img.icons8.com/windows/32/000000/linkedin-2.png"/></a>
+  <a href="https://hannahong.dev/"><img src="https://img.icons8.com/material-sharp/32/000000/name.png"/></a>
   <a href="https://dev.to/duchesstoffee"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+  <a href="https://www.linkedin.com/in/hannah-ong/"><img src="https://img.icons8.com/material-sharp/32/000000/linkedin.png"/></a>
   <a href="https://twitter.com/duchess_toffee"><img src="https://img.icons8.com/windows/32/000000/twitter-squared--v2.png"/></a>
  </p>
