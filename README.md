@@ -19,7 +19,7 @@
 
 <!-- <br/><br/> -->
  
-<h3 align="center"><b>✨ I'm a Software Developer. ✨</b></p>
+<h3 align="center"><b>✨ Software Developer. ✨</b></p>
  
 <!-- <br/><br/> -->
 
