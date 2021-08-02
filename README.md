@@ -1,5 +1,6 @@
-<h1 align="center"><a href="https://hannahong.dev/"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50"></a> <a href="https://hannahong.dev/" style="color:black;">Hannah Ong | duchess-toffee </a> </h1>
-
+<!-- <h1 align="center"><a href="https://hannahong.dev/"><img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50"></a> <a href="https://hannahong.dev/" style="color:black;">Hannah Ong</a> </h1> -->
+<h1 align="center"><a href="https://hannahong.dev/" style="color:black;">Hannah Ong</a></h1>
+<!-- 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://img.icons8.com/windows/50/000000/html-5.png"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS"><img src="https://img.icons8.com/ios/50/000000/css3.png"/></a>
@@ -14,23 +15,23 @@
   <a href="https://expressjs.com/"><img src="https://icon-icons.com/icons2/2415/PNG/48/express_original_wordmark_logo_icon_146528.png"/></a>
   <a href="https://www.serverless.com/"><img src="https://cdn.icon-icons.com/icons2/2148/PNG/48/serverless_icon_132003.png"/></a>
   <a href="https://aws.amazon.com/lambda/"><img src=https://img.icons8.com/material/48/000000/amazon-web-services.png/></a>
-</p>
+</p> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
  
 <h3 align="center"><b>✨ I'm a Software Developer. ✨</b></p>
  
-<br/><br/>
+<!-- <br/><br/> -->
 
-<h4 align="center">Recent Projects:</p>
+<!-- <h4 align="center">Recent Projects:</p>
 <p align="center">
   <a href="https://moreeyesplz.com">👀 More Eyes, Plz!</a> : A simple way to crowdsource feedback on your GitHub commits
 </p>
 <p align="center">
   <a href="https://github.com/duchess-toffee/squidy">🦑 Squidy!</a> : A Google Calendar add-on that lets you record, save, and email personal event notes.
-</p>
+</p> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <p align="center">
   <a href="https://hannahong.dev/"><img src="https://img.icons8.com/material-sharp/32/000000/name.png"/></a>
